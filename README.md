@@ -17,6 +17,10 @@ make a dynamic view inside a maze, in which you’ll have to find your way.
 | close doors | ```E```|
 | sprint      | ```SHIFT``` (only after collecting "sprint potion")|
 
+
+## Screenshot
+![Screenshot](screenshot/cub_screen.png)
+
 ## How to use
 Clone the repository:
 ```bash
@@ -34,3 +38,5 @@ Use clean to delete all object files, fclean to remove all object files and exec
 ```bash
 make clean / make fclean / make re
 ```
+## Partner
+[42 Heilbronn](https://www.42heilbronn.de/en/) student: [Felix](https://github.com/fharing)
