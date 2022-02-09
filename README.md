@@ -20,15 +20,15 @@ make a dynamic view inside a maze, in which you’ll have to find your way.
 ## How to use
 Clone the repository:
 ```bash
-git clone https://github.com/42akurz/42_Philosophers.git
+https://github.com/42akurz/42_cub3D.git
 ```
 Go to the repository and run make
 ```bash
 make
 ```
-Call the executable together with a set of numbers seperated by a space (test cases in repository)
+Run the executable together with a map
 ```bash
-./philo 4 410 200 200
+./cub3D maps/map5.cub
 ```
 Use clean to delete all object files, fclean to remove all object files and executable and re to recompile the program
 ```bash
