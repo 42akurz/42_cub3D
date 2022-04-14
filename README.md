@@ -1,6 +1,6 @@
 # cub3D - 42 School Project
 
-[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/cub3d)](https://github.com/JaeSeoKim/badge42)
+[![akurz's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1z3zeq4001109mkr4my4esw/project/2421246)](https://github.com/JaeSeoKim/badge42)
 
 ## About
 * This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever.  
